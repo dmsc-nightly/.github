@@ -25,3 +25,4 @@
 | sasview-scicat | | | | |
 | easydiffraction-scicat | | | | |
 | easyreflectometry-scicat | | | | |
+| [mcstas-scipp](https://github.com/dmsc-nightly/mcstas-scipp) | ![mcstas-scipp](https://github.com/dmsc-nightly/mcstas-scipp/actions/workflows/nightly.yml/badge.svg?branch=main) | Mads Bertelsen | Neil Vaytet | |
