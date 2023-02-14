@@ -17,7 +17,7 @@
 | skadifile-scipp | | | | |
 | trexfile-scipp | | | | |
 | vespafile-scipp | | | | |
-| [scipp-sasview](https://github.com/dmsc-nightly/scipp-sasview) | ![scipp-sasview](https://github.com/dmsc-nightly/scipp-sasview/actions/workflows/nightly.yml/badge.svg?branch=main) | Neil Vaytet | Wojciech Potrzebowski | |
+| [scipp-sasview](https://github.com/dmsc-nightly/scipp-sasview) | ![scipp-sasview](https://github.com/dmsc-nightly/scipp-sasview/actions/workflows/nightly.yml/badge.svg?branch=main) | Neil Vaytet | Wojciech Potrzebowski | Runs at 01:00|
 | scipp-scicat | | | | |
 | scicat-scipp | | | | |
 | scipp-easydiffraction | | | | |
