@@ -1,6 +1,6 @@
 # DMSC nightly interface tests
 
-| Interface | Status | Left owners | Right owners | Start time | Notes |
+| Interface | Status | Left owners | Right owners | Start time (UTC) | Notes |
 | --- | --- | --- | --- | --- | --- |
 | beerfile-scipp | | | | | |
 | bifrostfile-scipp | | | | | |
